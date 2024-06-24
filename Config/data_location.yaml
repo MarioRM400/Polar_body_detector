@@ -1,0 +1,5 @@
+names:
+  0: polar_body
+path: C:\ConceivableProjects\polar_body\panoramic\v0.0.1\Data
+train: images\train
+val: images\val
