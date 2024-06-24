@@ -1,6 +1,9 @@
 outs:
 - md5: 6f118df7b2fefbf1b18f97879d7e8922
   size: 381686673
-  isexec: true
   hash: md5
   path: Data.zip
+  cloud:
+    storage:
+      etag: 08d88f999fecf486031001
+      version_id: '1719252925433816'
